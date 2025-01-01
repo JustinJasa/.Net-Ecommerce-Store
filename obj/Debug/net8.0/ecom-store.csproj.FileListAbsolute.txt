@@ -166,3 +166,4 @@
 /Users/jasa/Desktop/All Folders/dotnet learnings/E-Commerce Store/ecom-store/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/jasa/Desktop/All Folders/dotnet learnings/E-Commerce Store/ecom-store/obj/Debug/net8.0/ecom-store.csproj.AssemblyReference.cache
 /Users/jasa/Desktop/All Folders/dotnet learnings/E-Commerce Store/ecom-store/obj/Debug/net8.0/ecom-store.csproj.Up2Date
+/Users/jasa/Desktop/All Folders/dotnet learnings/E-Commerce Store/ecom-store/obj/Debug/net8.0/ecom-store.sourcelink.json
